@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60030AF9-0B32-41C6-BB98-A87E9D164653}|DATE.vcxproj|C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\DATE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60030AF9-0B32-41C6-BB98-A87E9D164653}|DATE.vcxproj|solutionrelative:DATE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60030AF9-0B32-41C6-BB98-A87E9D164653}|DATE.vcxproj|C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\DATE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60030AF9-0B32-41C6-BB98-A87E9D164653}|DATE.vcxproj|solutionrelative:DATE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60030AF9-0B32-41C6-BB98-A87E9D164653}|DATE.vcxproj|C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60030AF9-0B32-41C6-BB98-A87E9D164653}|DATE.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DATE.cpp",
+              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\DATE.cpp",
+              "RelativeDocumentMoniker": "DATE.cpp",
+              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\DATE.cpp",
+              "RelativeToolTip": "DATE.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T18:39:56.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DATE.h",
+              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\DATE.h",
+              "RelativeDocumentMoniker": "DATE.h",
+              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\DATE.h",
+              "RelativeToolTip": "DATE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T18:34:39.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH4-24521207\\TH4-Bai4\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T18:33:52.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

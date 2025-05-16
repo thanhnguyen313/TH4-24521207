@@ -1,0 +1,5 @@
+﻿  PHANSO.cpp
+  XuLyPHANSO.cpp
+  Generating Code...
+C:\Users\totha\source\repos\TH4-24521207\TH4-Bai2\XuLyPHANSO.cpp(109,1): warning C4717: 'PHANSO::operator<': recursive on all control paths, function will cause runtime stack overflow
+  PHANSO.vcxproj -> C:\Users\totha\source\repos\TH4-24521207\TH4-Bai2\x64\Debug\PHANSO.exe
